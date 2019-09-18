@@ -40,7 +40,7 @@ const d = calc.div(4.4222222224, 2);
 console.log(d); // 2.2111111112
 ```
 
-## Test Example:
+## Unit Test:
 
 ```js
 (() => {
