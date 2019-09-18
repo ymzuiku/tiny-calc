@@ -1,6 +1,8 @@
 # Tiny Calc - fix JS decimals
 
-only 350b (gzip) size,
+Code from: https://blog.csdn.net/wkyseo/article/details/77447842
+
+only 350b (gzip) size
 
 ## Feature
 
