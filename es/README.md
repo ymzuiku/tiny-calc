@@ -2,7 +2,7 @@
 
 Code from: https://blog.csdn.net/wkyseo/article/details/77447842
 
-only 350b (gzip) size
+only 350b (gzip) size, support Typescript
 
 ## Feature
 
