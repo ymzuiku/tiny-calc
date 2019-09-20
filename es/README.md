@@ -16,7 +16,7 @@ console.log(a); // 5.100001000000001
 Use tiny-calc
 
 ```js
-const a = calc(3.1, 2.000001);
+const a = calc.add(3.1, 2.000001);
 console.log(a); // 5.100001
 ```
 

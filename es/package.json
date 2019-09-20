@@ -1,6 +1,6 @@
 {
   "name": "tiny-calc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "lib": "tscu src --outDir es --copy 'package.json, README.md'"
   },
